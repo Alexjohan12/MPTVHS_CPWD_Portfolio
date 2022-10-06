@@ -1,11 +1,25 @@
 body {
-   background-color:deepskyblue;
+  background-color:silver;
 }
 
 .Alex_img {
-    padding-left: 500px;
+  padding-left: 850px;
+  padding-top:100px;
 
 
+}
+.p1 {
+  padding-left:600px;
+  font-family: cursive;
+}
+
+.titulo {
+  font-weight:bold;
+  font-family:cursive;
+}
+
+#div1 {
+  color:blue;
 }
 
 
