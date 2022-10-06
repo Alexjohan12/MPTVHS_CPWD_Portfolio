@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8006d68-11fe-4113-a249-4296576e2b1d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Image/cardenal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/cardenal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +49,7 @@
       <workItem from="1664989591490" duration="34000" />
       <workItem from="1664989629540" duration="20000" />
       <workItem from="1665059342021" duration="12000" />
-      <workItem from="1665059360438" duration="2174000" />
+      <workItem from="1665059360438" duration="3360000" />
     </task>
     <task id="LOCAL-00001" summary="This is a test to see how Git works.">
       <created>1665062314621</created>
@@ -53,7 +58,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665062314621</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="This is a test to see how Git works a second time.">
+      <created>1665062372762</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665062372762</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change Br for hr">
+      <created>1665062584771</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665062584771</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,6 +80,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is a test to see how Git works." />
-    <option name="LAST_COMMIT_MESSAGE" value="This is a test to see how Git works." />
+    <MESSAGE value="This is a test to see how Git works a second time." />
+    <MESSAGE value="put a image" />
+    <MESSAGE value="change Br for hr" />
+    <option name="LAST_COMMIT_MESSAGE" value="change Br for hr" />
   </component>
 </project>
