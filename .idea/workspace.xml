@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8006d68-11fe-4113-a249-4296576e2b1d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/about_me.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +28,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/430427/PhpstormProjects/untitled/css",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -39,6 +42,7 @@
       <recent name="$PROJECT_DIR$/js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Image" />
       <recent name="$PROJECT_DIR$/doc" />
     </key>
   </component>
@@ -57,7 +61,7 @@
       <workItem from="1665069267858" duration="4252000" />
       <workItem from="1665148927747" duration="1000" />
       <workItem from="1665148932606" duration="138000" />
-      <workItem from="1666012365302" duration="3318000" />
+      <workItem from="1666012365302" duration="4466000" />
     </task>
     <task id="LOCAL-00001" summary="This is a test to see how Git works.">
       <created>1665062314621</created>
@@ -108,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666013906748</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="new image , nv bar , color in the nav bar">
+      <created>1666017023367</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666017023367</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +134,7 @@
     <MESSAGE value="una segunda imagen y  moverla de lado" />
     <MESSAGE value="agregar algunos parrafos y mejoras los css  par que esta se vea mejor" />
     <MESSAGE value="add  boostrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="add  boostrap" />
+    <MESSAGE value="new image , nv bar , color in the nav bar" />
+    <option name="LAST_COMMIT_MESSAGE" value="new image , nv bar , color in the nav bar" />
   </component>
 </project>
