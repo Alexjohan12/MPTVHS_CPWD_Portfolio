@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f8006d68-11fe-4113-a249-4296576e2b1d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,13 +26,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/430427/PhpstormProjects/untitled/css",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/doc" />
     </key>
@@ -51,7 +57,7 @@
       <workItem from="1665069267858" duration="4252000" />
       <workItem from="1665148927747" duration="1000" />
       <workItem from="1665148932606" duration="138000" />
-      <workItem from="1666012365302" duration="1197000" />
+      <workItem from="1666012365302" duration="3318000" />
     </task>
     <task id="LOCAL-00001" summary="This is a test to see how Git works.">
       <created>1665062314621</created>
@@ -95,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665078645279</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add  boostrap">
+      <created>1666013906748</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666013906748</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +122,7 @@
     <MESSAGE value="nueva imagen y un comentario" />
     <MESSAGE value="una segunda imagen y  moverla de lado" />
     <MESSAGE value="agregar algunos parrafos y mejoras los css  par que esta se vea mejor" />
-    <option name="LAST_COMMIT_MESSAGE" value="agregar algunos parrafos y mejoras los css  par que esta se vea mejor" />
+    <MESSAGE value="add  boostrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="add  boostrap" />
   </component>
 </project>
