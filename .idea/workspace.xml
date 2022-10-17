@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f8006d68-11fe-4113-a249-4296576e2b1d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,19 +16,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2FizFIePre88NUYx8dW4QNQkCc2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/doc" />
@@ -47,7 +48,10 @@
       <workItem from="1664989629540" duration="20000" />
       <workItem from="1665059342021" duration="12000" />
       <workItem from="1665059360438" duration="5164000" />
-      <workItem from="1665069267858" duration="3713000" />
+      <workItem from="1665069267858" duration="4252000" />
+      <workItem from="1665148927747" duration="1000" />
+      <workItem from="1665148932606" duration="138000" />
+      <workItem from="1666012365302" duration="1197000" />
     </task>
     <task id="LOCAL-00001" summary="This is a test to see how Git works.">
       <created>1665062314621</created>
@@ -84,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665065048423</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="agregar algunos parrafos y mejoras los css  par que esta se vea mejor">
+      <created>1665078645279</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665078645279</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +108,7 @@
     <MESSAGE value="change Br for hr" />
     <MESSAGE value="nueva imagen y un comentario" />
     <MESSAGE value="una segunda imagen y  moverla de lado" />
-    <option name="LAST_COMMIT_MESSAGE" value="una segunda imagen y  moverla de lado" />
+    <MESSAGE value="agregar algunos parrafos y mejoras los css  par que esta se vea mejor" />
+    <option name="LAST_COMMIT_MESSAGE" value="agregar algunos parrafos y mejoras los css  par que esta se vea mejor" />
   </component>
 </project>
