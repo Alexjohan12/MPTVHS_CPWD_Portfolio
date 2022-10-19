@@ -1,11 +1,10 @@
 body {
-  background-color:cornflowerblue;
+  background-color:red;
 }
 
-.Alex_img {
-  padding-left: 850px;
-  padding-top:100px;
-  padding-bottom:200px;
+#Alex_img {
+  padding-left: 70px;
+  padding-bottom:40px;
 
 
 }
@@ -15,13 +14,29 @@ body {
 }
 
 .titulo {
-  font-weight:bold;
+  weight: 500px;
   font-family:cursive;
+  text-align: center;
 }
 
 #div1 {
   color:blue;
 }
+
+
+.resumen{
+ text-align: center;
+  font-family: cursive;
+}
+
+#information_text {
+  text-align: center;
+  font-family:cursive;
+  padding-bottom:40px;
+}
+
+
+
 
 
 
