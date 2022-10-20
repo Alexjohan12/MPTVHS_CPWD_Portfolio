@@ -76,7 +76,7 @@
       <workItem from="1666094781342" duration="290000" />
       <workItem from="1666182005437" duration="9225000" />
       <workItem from="1666266362257" duration="85000" />
-      <workItem from="1666267263637" duration="6871000" />
+      <workItem from="1666267263637" duration="10077000" />
     </task>
     <task id="LOCAL-00001" summary="This is a test to see how Git works.">
       <created>1665062314621</created>
@@ -162,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666201123776</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="correcion de css, nuevos textos  como barras con punto , color del fondo cambiado , movimiento de la imagen del sitio">
+      <created>1666280261531</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666280261531</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +188,7 @@
     <MESSAGE value="new page" />
     <MESSAGE value="new thing" />
     <MESSAGE value="put my resume new pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="put my resume new pages" />
+    <MESSAGE value="correcion de css, nuevos textos  como barras con punto , color del fondo cambiado , movimiento de la imagen del sitio" />
+    <option name="LAST_COMMIT_MESSAGE" value="correcion de css, nuevos textos  como barras con punto , color del fondo cambiado , movimiento de la imagen del sitio" />
   </component>
 </project>
