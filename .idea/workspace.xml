@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f8006d68-11fe-4113-a249-4296576e2b1d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_me.html" beforeDir="false" afterPath="$PROJECT_DIR$/about_me.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/certificados.html" beforeDir="false" afterPath="$PROJECT_DIR$/certificados.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resumen.html" beforeDir="false" afterPath="$PROJECT_DIR$/resumen.html" afterDir="false" />
     </list>
@@ -71,7 +74,9 @@
       <workItem from="1666012365302" duration="5714000" />
       <workItem from="1666030724093" duration="31000" />
       <workItem from="1666094781342" duration="290000" />
-      <workItem from="1666182005437" duration="9195000" />
+      <workItem from="1666182005437" duration="9225000" />
+      <workItem from="1666266362257" duration="85000" />
+      <workItem from="1666267263637" duration="6871000" />
     </task>
     <task id="LOCAL-00001" summary="This is a test to see how Git works.">
       <created>1665062314621</created>
@@ -150,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666189912117</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="put my resume new pages">
+      <created>1666201123776</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666201123776</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +180,7 @@
     <MESSAGE value="new image , nv bar , color in the nav bar" />
     <MESSAGE value="new page" />
     <MESSAGE value="new thing" />
-    <option name="LAST_COMMIT_MESSAGE" value="new thing" />
+    <MESSAGE value="put my resume new pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="put my resume new pages" />
   </component>
 </project>

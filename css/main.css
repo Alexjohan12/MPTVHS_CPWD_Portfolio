@@ -1,5 +1,7 @@
 body {
-  background-color: #31d2f2;
+ padding-left:50px;
+  padding-right:50px;
+  background-color:#b6d4fe;
 }
 
 #Alex_img {
@@ -9,14 +11,27 @@ body {
 
 }
 .p1 {
-  padding-left:600px;
+  padding-left:540px;
   font-family: cursive;
+  padding-top:20px;
+}
+
+.p2 {
+  padding-left:460px;
+  font-family: cursive;
+}
+
+.p3 {
+  padding-left:440px;
+  font-family: cursive;
+
 }
 
 .titulo {
   weight: 500px;
   font-family:cursive;
   text-align: center;
+  padding-bottom:50px;
 }
 
 #div1 {
@@ -64,7 +79,18 @@ h4, hr {
   margin-bottom:20px;
 }
 
+.date2 {
+  padding-left:230px;
+  text-align:center;
+}
 
+#bandera {
+    padding-top:20px;
+}
+.cosas_favoritas {
+    font-family:cursive;
+     text-align: center;
+}
 
 
 
