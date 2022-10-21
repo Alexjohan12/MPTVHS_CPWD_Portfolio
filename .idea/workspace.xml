@@ -4,8 +4,6 @@
     <list default="true" id="f8006d68-11fe-4113-a249-4296576e2b1d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about_me.html" beforeDir="false" afterPath="$PROJECT_DIR$/about_me.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/certificados.html" beforeDir="false" afterPath="$PROJECT_DIR$/certificados.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resumen.html" beforeDir="false" afterPath="$PROJECT_DIR$/resumen.html" afterDir="false" />
     </list>
@@ -76,7 +74,8 @@
       <workItem from="1666094781342" duration="290000" />
       <workItem from="1666182005437" duration="9225000" />
       <workItem from="1666266362257" duration="85000" />
-      <workItem from="1666267263637" duration="10077000" />
+      <workItem from="1666267263637" duration="10106000" />
+      <workItem from="1666352127469" duration="1075000" />
     </task>
     <task id="LOCAL-00001" summary="This is a test to see how Git works.">
       <created>1665062314621</created>
@@ -169,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666280261531</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="div para crear la parte de abajo">
+      <created>1666288779566</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666288779566</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +195,7 @@
     <MESSAGE value="new thing" />
     <MESSAGE value="put my resume new pages" />
     <MESSAGE value="correcion de css, nuevos textos  como barras con punto , color del fondo cambiado , movimiento de la imagen del sitio" />
-    <option name="LAST_COMMIT_MESSAGE" value="correcion de css, nuevos textos  como barras con punto , color del fondo cambiado , movimiento de la imagen del sitio" />
+    <MESSAGE value="div para crear la parte de abajo" />
+    <option name="LAST_COMMIT_MESSAGE" value="div para crear la parte de abajo" />
   </component>
 </project>
