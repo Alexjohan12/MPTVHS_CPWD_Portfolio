@@ -1,7 +1,7 @@
 body {
  padding-left:10px;
   padding-right:10px;
-  background-color:#b6d4fe;
+  background-color:lightgray;
 }
 
 #Alex_img {
@@ -10,21 +10,21 @@ body {
 
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 
 #p2 {
   padding-left:20px;
-  font-family: cursive;
+  font-family: Times, "Times New Roman", Georgia, serif;
   margin-top: 100px;
 }
 
 
-
-.titulo {
-  weight: 500px;
-  font-family:cursive;
-  text-align: center;
-  padding-bottom:50px;
-}
 
 #div1 {
   color:blue;
@@ -33,13 +33,13 @@ body {
 
 .titulo_resume{
  text-align: center;
-  font-family: cursive;
-}
+  font-family: Times, "Times New Roman", Georgia, serif;}
 
 #information_text {
   text-align: center;
-  font-family:cursive;
+  font-family: Times, "Times New Roman", Georgia, serif;
   padding-bottom:40px;
+
 }
 
 
@@ -76,12 +76,10 @@ h4, hr {
   text-align:center;
 }
 
-#bandera {
-    padding-top:20px;
-}
+
 .cosas_favoritas {
-    font-family:cursive;
-     text-align: center;
+  font-family: Times, "Times New Roman", Georgia, serif;
+  text-align: center;
 }
 
 .list  {
@@ -89,16 +87,18 @@ h4, hr {
 }
 
 .autor {
-  padding-left:100px;
+  padding-left:20px;
   text-align: center;
-  background-color:royalblue;
+  background-color:darkgray;
   padding-bottom: 10px;
   padding-top: 10px;
 
 }
 
 .bottom_div   {
-        background-color:#babbbc;
+        background-color:darkgray;
+        text-align: center;
+
 }
 
 #resume {
@@ -108,4 +108,37 @@ h4, hr {
 
 .resume_titles  {
         padding-top:50px;
+
 }
+
+#titulo_de_certificado {
+  font-family: Times, "Times New Roman", Georgia, serif;}
+
+#title_b {
+  font-family: Times, "Times New Roman", Georgia, serif;}
+
+#sobre_mi{
+      text-align: center;
+      padding-left:90px;
+      padding-right: 90px;
+      font-family: Times, "Times New Roman", Georgia, serif;
+
+}
+
+.flex-container {
+  margin: 30px;
+  height: 100px;
+  display: flex;
+  justify-content: space-between; /* align item horizontally */
+  align-items: center; /* align item vertically */
+}
+
+
+#p3 {
+  text-align: center;
+  font-family: Times, "Times New Roman", Georgia, serif;
+
+}
+
+
+
